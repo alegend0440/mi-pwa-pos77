@@ -8,7 +8,20 @@
   "short_name": "STORE",
   "start_url": "/",
   "theme_color": "#06010f",
-  "icons": [
+  "icons": ["icons": [
+    {
+      "src": "logo.png.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
     {
       "src": "https://script.google.com/favicon.ico",
       "type": "image/x-icon",
