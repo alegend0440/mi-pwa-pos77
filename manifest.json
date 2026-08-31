@@ -1,14 +1,12 @@
 {
-  "background_color": "#4fda1b",
-  "dir": "ltr",
+  "name": "MINI-TIENDA POS",
+  "short_name": "Tienda POS",
+  "description": "Aplicación de punto de venta y control de inventario para mi tienda.",
+  "start_url": "./",
   "display": "standalone",
-  "name": "MINI-TIENDA",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "STORE",
-  "start_url": "/",
-  "theme_color": "#06010f",
-  "icons": ["icons": [
+  "background_color": "#f1f5f9",
+  "theme_color": "#312e81",
+  "icons": [
     {
       "src": "logo.png.jpg",
       "sizes": "192x192",
@@ -16,24 +14,11 @@
       "purpose": "any"
     },
     {
-      "src": "logo.png",
+      "src": "logo.png.jpg",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     }
   ]
-    {
-      "src": "https://script.google.com/favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "32x32",
-      "isSquare": true,
-      "isPng": false,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 32,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
-    }
-  ]
+}
 }
