@@ -1,0 +1,26 @@
+{
+  "background_color": "#4fda1b",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "MINI-TIENDA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "STORE",
+  "start_url": "/",
+  "theme_color": "#06010f",
+  "icons": [
+    {
+      "src": "https://script.google.com/favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "32x32",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 32,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
