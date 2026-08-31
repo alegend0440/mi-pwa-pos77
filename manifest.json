@@ -8,13 +8,13 @@
   "theme_color": "#312e81",
   "icons": [
     {
-      "src": "logo.png.jpg",
+      "src": "appstore-images.zip",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "logo.png.jpg",
+      "src": "appstore-images.zip",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
